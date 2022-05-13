@@ -1,7 +1,7 @@
 # Vtuber_ChatBot-NLP-
 Vtuber：しぐれうい（https://twitter.com/ui_shig) さんの対話Botを作成しました。<Br>
 word2vec<Br>
-**# 機能<Br>**
+# 機能<Br>
 ①形態素解析<Br>
 ②文字を受け取り、単語の分散表現(word2vec)を用いて単語を抽出する<Br>
 ③マルコフ連鎖（n=1）で文を生成<Br>
