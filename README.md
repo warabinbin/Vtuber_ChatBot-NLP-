@@ -8,5 +8,3 @@ Vtuber：しぐれうい（https://twitter.com/ui_shig) さんの対話Botを作
 # 所感
 工夫した点としては、Mastdon上で実装したこと、マルコフ連鎖をn=2、次元数を1000にしたことです。<Br>
   連鎖数、次元をあげることで精度が高くなりました。<Br>
-
-Umemiya様（ https://qiita.com/Umemiya/items/027f8bac0650c28590b5 ）を参考にしました。<Br>
