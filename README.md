@@ -8,6 +8,6 @@ Vtuber：しぐれうい（https://twitter.com/ui_shig) さんの対話Botを作
 # 所感
 Mastdon上で実装し、マルコフ連鎖をn=2、次元数を1000にしました。連鎖数、次元をあげることで精度が高くなりました。<Br>
 # 実行結果
-Mastodon上での出力です。
+Mastodon上での出力です。右がチャットボットを用いて生成される言葉です。
   
 <img src="https://user-images.githubusercontent.com/64608456/173075430-3c0e93ac-7ee7-47cb-8b9a-f166daab046a.png" alt="実行結果真" title="実行結果">
