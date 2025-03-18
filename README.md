@@ -1,6 +1,5 @@
 # Vtuber_ChatBot-NLP-
- [しぐれうい](https://twitter.com/ui_shig)
-さんの対話Botを作成しました。<Br>
+ しぐれういさんの対話Botを作成しました。<Br>
 [規約](https://uishig.fanbox.cc/posts/6268223)
 # 概要<Br>
 ①形態素解析<Br>
