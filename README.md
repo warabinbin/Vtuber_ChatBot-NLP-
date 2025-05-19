@@ -1,6 +1,5 @@
 # Vtuber_ChatBot-NLP-
  しぐれういさんの対話Botを作成しました。<Br>
-[規約](https://uishig.fanbox.cc/posts/6268223)
 # 概要<Br>
 ①形態素解析<Br>
 ②文字を受け取り、単語の分散表現(word2vec)を用いて単語を抽出する<Br>
